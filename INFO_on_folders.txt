@@ -1,9 +1,0 @@
-
-working directory for functional and anatomical data of BASELINE
-/nobackup/lessing3/data_fbeyer/RSV
-
-working directory for functional and anatomical data of FOLLOW-UP
-/nobackup/aventurin3/data_fbeyer/RSV/3T/preprocessing/wd
-
-results directory for both BASELINE and FOLLOW-UP
-/nobackup/aventurin3/data_fbeyer/RSV/3T/preprocessing/preprocessed
